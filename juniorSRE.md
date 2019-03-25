@@ -20,3 +20,9 @@ The ideal candidate will be detail-oriented, willing to engage in and be calm du
 - **Automation experience** – You at least have used cron and written scripts, maybe even have graduated to something more like Ansible, Chef, or Puppet. You get annoyed at manual processes that can be easily automated and do what you can to prevent yourself from being a human keyboard. 
 - **Networking experience** – you know what networking is and why it’s important. You know the different parts of the OSI stack and roughly where to look when you encounter issues with two things that are supposed to be communicating are not. You’ve definitely used tcpdump before to troubleshoot an issue before pinging ( get it? ) a network engineer and saying “it’s the network’. Bonus points for familiarity with DNS, DHCP, ARP and knowing your way around IP addressing, subnets and CIDR.
 - **Monitoring experience** – Any monitoring experience is great. We’re more interested in your thought process and having an approach that is thoughtful about what to monitor and why, along with designing actionable alerts.
+
+## Further Reading that Might be Interesting
+- [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
+- [Drift Info Failure](https://www.amazon.com/Drift-into-Failure-Sidney-Dekker/dp/1409422216)
+- [UNIX and Linux System Administration Handbook](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057)
+- 
