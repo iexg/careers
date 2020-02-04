@@ -25,3 +25,5 @@ The ideal candidate will be detail-oriented, willing to engage in and be calm du
 - [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
 - [Drift Into Failure](https://www.amazon.com/Drift-into-Failure-Sidney-Dekker/dp/1409422216)
 - [UNIX and Linux System Administration Handbook](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057)
+- [The STELLA Report](https://snafucatchers.github.io/)
+- [COLLISION COURSE](https://features.propublica.org/navy-uss-mccain-crash/navy-installed-touch-screen-steering-ten-sailors-paid-with-their-lives/)
