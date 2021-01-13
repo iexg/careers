@@ -1,4 +1,2 @@
 # Careers
-Repository of the open position SRE is trying to fill
-## Open Positions
-- [Junior SRE](juniorSRE.md)
+Thanks for your interest in IEX! We maintain a list of open positions on our [website](https://iextrading.com/careers/#open-positions)
